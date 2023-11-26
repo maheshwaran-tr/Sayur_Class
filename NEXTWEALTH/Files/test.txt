@@ -1,0 +1,6 @@
+Name/Month  Sam  Adam  Sara  MostSales
+Month1    300    340    1000    Sara
+Month2    567    456    234    Sam
+Month3    234    456    3000    Sara
+Month4    1000    234    2000    Sara
+Sara is the employee who sold most phones

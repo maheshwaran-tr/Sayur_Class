@@ -1,0 +1,17 @@
+Character Frequency in line number 1 : 
+ a : 3
+ b : 2
+
+Character Frequency in line number 2 : 
+ c : 3
+ d : 3
+
+Character Frequency in line number 3 : 
+ g : 2
+ h : 2
+ k : 1
+ l : 1
+
+Character Frequency in line number 4 : 
+ a : 6
+
